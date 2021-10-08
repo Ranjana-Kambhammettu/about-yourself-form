@@ -10,6 +10,7 @@ header
   position: absolute;
   right: 0px;
   width: 50%;
+  background-size: cover;
 }
 body {
     background-color: beige;
