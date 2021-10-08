@@ -1,7 +1,34 @@
 header
 {
+    position:relative ;
     text-align: center;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    padding-left: 0;
 }
 img {
-    float: right;
+    object-fit: fill;
+    width: 32%;
+    height: 32%;
+} 
+
+body {
+    background-color: beige;
+    background-position: left;
+    min-height: 100%;
+}
+.mb-3
+{
+    padding-right: 65%;
+}
+
+footer {
+    position:relative ;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+#margin {
+    margin-left: 20px;
 }
