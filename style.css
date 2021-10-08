@@ -8,7 +8,7 @@ header
 }
 .img-fluid {
     max-width: 50%;
-    height: auto;
+    min-height:max-content;
 }
 body {
     background-color: beige;
