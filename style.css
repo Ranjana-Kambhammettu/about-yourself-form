@@ -6,9 +6,10 @@ header
     padding-bottom: 20px;
     padding-left: 0;
 }
-.img-fluid {
-    max-width: 50%;
-    min-height:max-content;
+.right {
+  position: absolute;
+  right: 0px;
+  width: 50%;
 }
 body {
     background-color: beige;
