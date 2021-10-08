@@ -6,12 +6,10 @@ header
     padding-bottom: 20px;
     padding-left: 0;
 }
-img {
-    object-fit: fill;
-    width: 32%;
-    height: 32%;
-} 
-
+.img-fluid {
+    max-width: 50%;
+    height: auto;
+}
 body {
     background-color: beige;
     background-position: left;
